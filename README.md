@@ -4,6 +4,8 @@
 # About
 the excel spreadsheet `Inventory Checklist` in the repo provides an overview of the electronic components that user has created or bought. By enter the fields in the sheet, basically only the **MPN** of a part, the Excel Add-In provided by Octopart API (now part of the Nexar API) will automatically process the request and update the supply information. In this way, user can process a bulk of parts easily without accessing too many tabs in a web browser.
 
+[<img src="https://img.youtube.com/vi/17uxyViao2s/maxresdefault.jpg" width="60%">](https://youtu.be/17uxyViao2s)
+
 # How to use
 1. First sign up on [Nexar Portal](https://octopart.com/business/api/v4/api-transition), and create an application afterwards with the scope of `Supply`.
 2. Next to install the [Nexar Supply Excel Add-In](https://github.com/NexarDeveloper/nexar-supply-excel-cs).
